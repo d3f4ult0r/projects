@@ -29,6 +29,7 @@ def user_guess():
     print("-------------------------------------------------------------------")
     print("          TRY GUESSING MY PROGRAM'S RANDOM NUMBER")
     print("-------------------------------------------------------------------")
+    print("                           {between 1 - 100}")
     print("                          Created by d3f4ult0r")
     print("-------------------------------------------------------------------")
     random_number = random.randint(1, 100)
